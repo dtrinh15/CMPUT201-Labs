@@ -1,0 +1,2 @@
+ls -l -h ~/CMPUT201/labs-hase-ki/Lab1
+

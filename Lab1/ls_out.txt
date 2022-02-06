@@ -1,0 +1,8 @@
+total 14K
+-rw------- 1 dtrinh1 ugrad  113 Jan 18 14:14 README.md
+-rw------- 1 dtrinh1 ugrad 2.2K Jan 18 15:52 bill_calculator.c
+-rw------- 1 dtrinh1 ugrad 1.8K Jan 18 15:52 hello.c
+-rw------- 1 dtrinh1 ugrad   39 Jan 18 14:14 ls_com.txt
+-rw------- 1 dtrinh1 ugrad    0 Jan 18 15:54 ls_out.txt
+-rw------- 1 dtrinh1 ugrad 8.5K Jan 18 15:52 submit.tar
+drwx------ 2 dtrinh1 ugrad    2 Jan 18 14:23 testTar
